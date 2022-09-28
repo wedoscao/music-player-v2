@@ -1,0 +1,50 @@
+{
+    "songs": [
+        {
+            "name": "Boombayah",
+            "music": "/src/data/songs/Boombayah-BLACKPINK-6291993.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/boombayah.jpg"
+        },
+        {
+            "name": "Ddu Du Ddu Du",
+            "music": "/src/data/songs/DduduDdudu-BLACKPINK-6291998.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/Ddu-Du_Ddu-Du.png"
+        },
+
+        {
+            "name": "Ice Cream",
+            "music": "/src/data/songs/IceCreamWithSelenaGomez-BLACKPINK-6720101.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/Ice_Cream.png"
+        },
+        {
+            "name": "Kill This Love",
+            "music": "/src/data/songs/KillThisLove-BLACKPINK-6291967.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/killthislove.jpg"
+        },
+        {
+            "name": "Lalisa",
+            "music": "/src/data/songs/Lalisa - LISA.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/lalisa.jpg"
+        },
+        {
+            "name": "Lovesick Girl",
+            "music": "/src/data/songs/LovesickGirls-BLACKPINK-6720104.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/lovesickgirls.jpeg"
+        },
+        {
+            "name": "On The Ground",
+            "music": "/src/data/songs/On The Ground - Rose.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/On_the_Ground.jpg"
+        },
+        {
+            "name": "Pretty Savage",
+            "music": "/src/data/songs/PrettySavage-BLACKPINK-6720102.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/prettysavage.png"
+        },
+        {
+            "name": "Solo",
+            "music": "/src/data/songs/Solo-JennieBlackPink-5738971.mp3",
+            "thumbnail": "/src/data/songs/thumbnails/solo.png"
+        }
+    ]
+}
