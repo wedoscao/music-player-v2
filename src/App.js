@@ -11,7 +11,7 @@ import songs from "./data/songs";
 export default function App() {
     return (
         <Fragment>
-            <div className="text-slate-300 bg-black">
+            <div className="text-slate-300 bg-black overflow-hidden">
                 <Header />
                 <Sidebar />
                 <Routes>

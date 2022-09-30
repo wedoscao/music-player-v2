@@ -2,49 +2,49 @@
     "songs": [
         {
             "name": "Boombayah",
-            "music": "/src/data/songs/Boombayah-BLACKPINK-6291993.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/boombayah.jpg"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/Boombayah-BLACKPINK-6291993.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/boombayah.jpg?raw=true"
         },
         {
             "name": "Ddu Du Ddu Du",
-            "music": "/src/data/songs/DduduDdudu-BLACKPINK-6291998.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/Ddu-Du_Ddu-Du.png"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/DduduDdudu-BLACKPINK-6291998.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/Ddu-Du_Ddu-Du.png?raw=true"
         },
 
         {
             "name": "Ice Cream",
-            "music": "/src/data/songs/IceCreamWithSelenaGomez-BLACKPINK-6720101.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/Ice_Cream.png"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/IceCreamWithSelenaGomez-BLACKPINK-6720101.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/Ice_Cream.png?raw=true"
         },
         {
             "name": "Kill This Love",
-            "music": "/src/data/songs/KillThisLove-BLACKPINK-6291967.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/killthislove.jpg"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/KillThisLove-BLACKPINK-6291967.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/killthislove.jpg?raw=true"
         },
         {
             "name": "Lalisa",
-            "music": "/src/data/songs/Lalisa - LISA.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/lalisa.jpg"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/Lalisa%20-%20LISA.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/lalisa.jpg?raw=true"
         },
         {
             "name": "Lovesick Girl",
-            "music": "/src/data/songs/LovesickGirls-BLACKPINK-6720104.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/lovesickgirls.jpeg"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/LovesickGirls-BLACKPINK-6720104.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/lovesickgirls.jpeg?raw=true"
         },
         {
             "name": "On The Ground",
-            "music": "/src/data/songs/On The Ground - Rose.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/On_the_Ground.jpg"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/On%20The%20Ground%20-%20Rose.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/On_the_Ground.jpg?raw=true"
         },
         {
             "name": "Pretty Savage",
-            "music": "/src/data/songs/PrettySavage-BLACKPINK-6720102.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/prettysavage.png"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/PrettySavage-BLACKPINK-6720102.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/prettysavage.png?raw=true"
         },
         {
             "name": "Solo",
-            "music": "/src/data/songs/Solo-JennieBlackPink-5738971.mp3",
-            "thumbnail": "/src/data/songs/thumbnails/solo.png"
+            "music": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/music/Solo-JennieBlackPink-5738971.mp3?raw=true",
+            "thumbnail": "https://github.com/wedoscao/music-player-react/blob/main/src/data/songs/thumbnails/solo.png?raw=true"
         }
     ]
 }

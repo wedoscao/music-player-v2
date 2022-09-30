@@ -5,3 +5,13 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+
+#progressBar::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 0.8rem;
+    width: 0.3rem;
+    background: #ff4500;
+    cursor: pointer;
+    box-shadow: 0 0 2px 0 #555;
+    transition: background 0.3s ease-in-out;
+}
