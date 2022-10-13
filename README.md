@@ -1,1 +1,1 @@
-Music Player React
+Music Player v2
